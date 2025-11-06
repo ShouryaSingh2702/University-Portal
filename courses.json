@@ -1,0 +1,18 @@
+{
+    "CS101": {
+        "name": "Intro to Python",
+        "faculty": "Prabhu"
+    },
+    "MATH201": {
+        "name": "Calculus I",
+        "faculty": "Sukanta"
+    },
+    "PHYS101": {
+        "name": "Basic Engineering",
+        "faculty": "Prabhu"
+    },
+    "CHEM101": {
+        "name": "Chemistry",
+        "faculty": "Diddy"
+    }
+}

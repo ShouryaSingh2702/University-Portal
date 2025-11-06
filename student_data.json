@@ -1,0 +1,120 @@
+{
+    "students": {
+        "Harshit": {
+            "enrolled_courses": [
+                "CS101",
+                "PHYS101"
+            ],
+            "course_data": {
+                "CS101": {
+                    "attendance": 67,
+                    "marks": {
+                        "Problem solving using Python": "16.7"
+                    },
+                    "projects": [
+                        {
+                            "title": "Python project",
+                            "due": "12 March 2025"
+                        }
+                    ]
+                },
+                "PHYS101": {
+                    "attendance": 85,
+                    "marks": {
+                        "Lab 1": "95"
+                    },
+                    "projects": []
+                }
+            }
+        },
+        "SHILAJIT": {
+            "enrolled_courses": [
+                "CS101",
+                "CHEM101"
+            ],
+            "course_data": {
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": [
+                        {
+                            "title": "Python project",
+                            "due": "12 March 2025"
+                        }
+                    ]
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                }
+            }
+        },
+        "Shourya": {
+            "enrolled_courses": [
+                "MATH201"
+            ],
+            "course_data": {
+                "MATH201": {
+                    "attendance": 89,
+                    "marks": {
+                        "CAT 2": "99"
+                    },
+                    "projects": [
+                        {
+                            "title": "Assessment 5",
+                            "due": "15 Novemenr"
+                        }
+                    ]
+                }
+            }
+        },
+        "sakcham": {
+            "enrolled_courses": [
+                "CS101",
+                "MATH201",
+                "PHYS101",
+                "CHEM101"
+            ],
+            "course_data": {
+                "CS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "MATH201": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "PHYS101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                },
+                "CHEM101": {
+                    "attendance": null,
+                    "marks": {},
+                    "projects": []
+                }
+            }
+        }
+    },
+    "exam_schedule": [
+        {
+            "subject": "Botanics",
+            "date": "12 March",
+            "time": "10:00 AM"
+        },
+        {
+            "subject": "Chemistry",
+            "date": "14 June",
+            "time": "20 - 30"
+        },
+        {
+            "subject": "Hindi",
+            "date": " 11 March",
+            "time": "10:00 A.M."
+        }
+    ]
+}
